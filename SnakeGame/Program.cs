@@ -196,6 +196,7 @@ class Program
                 case ConsoleKey.LeftArrow:
 
                     movement = "LEFT";
+                    
 
                     break;
 
